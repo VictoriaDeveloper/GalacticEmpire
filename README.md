@@ -1,6 +1,7 @@
 # 🚀 Software Engineering Postmortem: Galactic Empire 🌌✨
 
 🌠 1. Project Overview
+
 Galactic Empire is a 4X strategy game where players lead their own galactic empire in a quest to dominate the stars. The gameplay revolves around mastering the four pillars of 4X strategy:
 
 - Explore 🌍: Discover new planets.
@@ -9,6 +10,7 @@ Galactic Empire is a 4X strategy game where players lead their own galactic empi
 - Exterminate 💥: Wipe out hostile forces to secure dominance. Players choose from three unique races—Humans, Aliens, and Androids—each with their own leaders and bonuses, creating a dynamic and strategic playstyle. This project was created for the Foundry Jam - Found Your Own Indie Studio! with collaboration from nathonkepley.
 
 🎯 2. Initial Project Goals
+
 The main goal was to build a working prototype of a 4X game that emphasizes resource management and showcases how gameplay progresses across the four phases of 4X strategy.
 
 Our user stories were centered around:
@@ -18,6 +20,7 @@ Our user stories were centered around:
 - Providing a clear and engaging experience of a 4X game’s core mechanics 🛠️.
 
 🛠️ 3. How Were the Goals Met?
+
 We utilized the Agile development process to keep our project on track. Key methods included:
 
 - Breaking down the project into user stories ✅.
@@ -50,6 +53,7 @@ This project provided valuable insights and skills:
 - Code Refactoring 🔧: Refactor the game to use a single, unified singleton for better phase management and scalability.
 
 ✨ 9. Conclusion
+
 Galactic Empire is a promising prototype that serves as the foundation for a larger, more polished project. Participating in the Foundry Jam provided an incredible opportunity to kickstart my dream of creating a full-fledged 4X strategy game.
 
 This experience was invaluable, and I look forward to applying the lessons learned in future game development projects. 🚀 Thank you for joining me on this journey—let’s conquer the stars together! 🌠
